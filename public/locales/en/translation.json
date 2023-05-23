@@ -1,0 +1,134 @@
+{
+  "links-sections": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "qualification": "Qualification",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "position": "Developer",
+    "description": "High level experience in web design and development knowledge, producing quality work.",
+    "button": "Contáctame",
+    "scroll": "Scroll down"
+  },
+
+  "about": {
+    "title": "About Me",
+    "subtitle": "My introduction",
+    "description": "Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.",
+    "year": "Years",
+    "experience": "experience",
+    "completed": "Completed",
+    "projects": "projects",
+    "companies": "Companies",
+    "worked": "worked",
+    "button": "Download CV"
+  },
+
+  "skills": {
+    "title": "Skills",
+    "subtitle": "My technical level",
+    "frontend": {
+      "title": "Frontend developer",
+      "subtitle": "More than 1 year",
+      "html": "HTML",
+      "css": "CSS",
+      "js": "JavaScript",
+      "react": "React",
+      "angular": "Angular"
+    },
+    "backend": {
+      "title": "Backend developer",
+      "subtitle": "1 year",
+      "php": "PHP",
+      "java": "Java",
+      "firebase": "Firebase",
+      "python": "Python"
+    }
+  },
+
+  "qualification": {
+    "title": "Qualification",
+    "subtitle": "My personal journey",
+    "education": "Education",
+    "work": "Work",
+    "education1": {
+      "cs": "Computer Science",
+      "university": "Fidelitas University",
+      "country": "Costa Rica",
+      "date": "2019 - Currently"
+    },
+    "education2": {
+      "wd": "Web Development",
+      "university": "Creativa University",
+      "country": "Costa Rica",
+      "date": "2020 - 2022"
+    },
+    "job1": {
+      "wd": "Fullstack Developer",
+      "company": "GBS Data Corporation",
+      "country": "Costa Rica",
+      "date": "2022 - 2023"
+    },
+    "job2": {
+      "wd": "Web Developer",
+      "company": "University Newspaper",
+      "country": "Costa Rica",
+      "date": "2020 - 2020"
+    }
+  },
+
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Most recent work",
+    "portfolio1": {
+      "title": "Cryptocurrency exchange",
+      "description": "Check cryptocurrency exchange based on your local currency using",
+      "description2": "as API.",
+      "button": "Demo"
+    },
+    "portfolio2": {
+      "title": "Modern Website",
+      "description": "Website adaptable to all devices, with ui components and animated interactions.",
+      "button": "Demo"
+    },
+    "portfolio3": {
+      "title": "Modern Website",
+      "description": "Website adaptable to all devices, with ui components and animated interactions.",
+      "button": "Demo"
+    }
+  },
+
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Get in touch",
+    "call": "Call Me",
+    "emailMe": "Email Me",
+    "location": "Location",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "project": "Project/Company",
+      "message": "Message",
+      "button": "Send Message"
+    }
+  },
+
+  "error": {
+    "name": "Please enter your name",
+    "email": "Please enter your email",
+    "email-valid": "Please enter a valid email",
+    "project": "Please enter your project or company",
+    "message": "Please write a message"
+  },
+
+  "success": "Email sent successfully!",
+
+  "footer": {
+    "position": "Frontend Developer",
+    "copy": "Andres Barrientos. All rights reserved"
+  }
+}

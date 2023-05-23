@@ -1,0 +1,134 @@
+{
+  "links-sections": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "skills": "Habilidades",
+    "qualification": "Experiencia",
+    "portfolio": "Portafolio",
+    "contact": "Contacto"
+  },
+
+  "home": {
+    "position": "Desarrollador",
+    "description": "Alto nivel de experiencia en diseño web y desarrollo de software, producción de trabajos de calidad. Experiencia con equipos ágiles.",
+    "button": "Contáctame",
+    "scroll": "Desplazar hacia abajo"
+  },
+
+  "about": {
+    "title": "Sobre Mi",
+    "subtitle": "Mi introducción",
+    "description": "Desarrollador con conocimiento extenso y años de experiencia, trabajando con tecnologías modernas y diseños UI/UX, en constante crecimiento.",
+    "year": "Años",
+    "experience": "con experiencia",
+    "completed": "completados",
+    "projects": "Proyectos",
+    "companies": "Compañías",
+    "worked": "que he trabajado",
+    "button": "Descargar CV"
+  },
+
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Mi nivel técnico",
+    "frontend": {
+      "title": "Desarrollador frontend",
+      "subtitle": "Más de 1 año",
+      "html": "HTML",
+      "css": "CSS",
+      "js": "JavaScript",
+      "react": "React",
+      "angular": "Angular"
+    },
+    "backend": {
+      "title": "Desarrollador backend",
+      "subtitle": "1 año",
+      "php": "PHP",
+      "java": "Java",
+      "firebase": "Firebase",
+      "python": "Python"
+    }
+  },
+
+  "qualification": {
+    "title": "Experiencia",
+    "subtitle": "Mi trayecto",
+    "education": "Educación",
+    "work": "Trabajos",
+    "education1": {
+      "cs": "Ing. Sistemas",
+      "university": "Universidad Fidelitas",
+      "country": "Costa Rica",
+      "date": "2019 - Actualmente"
+    },
+    "education2": {
+      "wd": "Desarrollo Web",
+      "university": "Universidad Creativa",
+      "country": "Costa Rica",
+      "date": "2020 - 2022"
+    },
+    "job1": {
+      "wd": "Desarrollador Fullstack",
+      "company": "GBS Data Corporation",
+      "country": "Costa Rica",
+      "date": "2022 - 2023"
+    },
+    "job2": {
+      "wd": "Desarrollador Web",
+      "company": "Periódico universitario UCR",
+      "country": "Costa Rica",
+      "date": "2020 - 2020"
+    }
+  },
+
+  "portfolio": {
+    "title": "Portafolio",
+    "subtitle": "Proyectos más recientes",
+    "portfolio1": {
+      "title": "Cotizador de criptomonedas",
+      "description": "Cotiza monedas de distintos paises y su tipo de cambio a la criptomoneda deseada, utilizando",
+      "description2": "como API.",
+      "button": "Demo"
+    },
+    "portfolio2": {
+      "title": "Sitio web moderno",
+      "description": "Sitio web adaptable a todos los dispositivos, con componentes y animaciones",
+      "button": "Demo"
+    },
+    "portfolio3": {
+      "title": "Sitio web moderno",
+      "description": "Sitio web adaptable a todos los dispositivos, con componentes y animaciones",
+      "button": "Demo"
+    }
+  },
+
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Mantente en contacto",
+    "call": "Teléfono",
+    "emailMe": "Correo",
+    "location": "Ubicación",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "project": "Proyecto/Compañía",
+      "message": "Mensaje",
+      "button": "Enviar Mensaje"
+    }
+  },
+
+  "error": {
+    "name": "Por favor, ingrese su nombre",
+    "email": "Por favor, ingrese su correo",
+    "email-valid": "Por favor, ingrese un correo válido",
+    "project": "Por favor, ingrese su proyecto o compañía",
+    "message": "Por favor, escriba un mensaje"
+  },
+
+  "success": "¡Correo enviado correctamente!",
+
+  "footer": {
+    "position": "Desarrollador Frontend",
+    "copy": "Andres Barrientos. Todos los derechos reservados"
+  }
+}
