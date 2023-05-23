@@ -14,6 +14,10 @@ import Footer from './components/Footer/Footer'
 
 function App() {
 
+  useEffect(() => {
+    localStorage.setItem('i18nextLng', 'en');
+  }, []);
+
   const sectionIds = {
     home: 'home',
     about: 'about',
@@ -59,7 +63,7 @@ function App() {
 
 
   return (
-    <Suspense fallback="Loading">
+    <Suspense>
       <TranslationContext>
         <Header sectionIds={sectionIds} currentSection={currentSection}/>
         <main className='main'>

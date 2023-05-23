@@ -11,7 +11,7 @@ const About = () => {
             <span className="section__subtitle">{t('about.subtitle')}</span>
 
             <div className={`${styles.about__container} grid`}>
-                <img src="./src/assets/img/profile.jpg" alt="profile_photo" className={styles.about__img} />
+                <img src="./img/profile.jpg" alt="profile_photo" className={styles.about__img} />
 
                 <div className={styles.about__data}>
                     <p className={styles.about__description}>
@@ -39,7 +39,7 @@ const About = () => {
                     </div>
 
                     <div className={styles.about__buttons}>
-                        <a download="" href="./src/assets/pdf/Andres_Barrientos_Developer.pdf" className="button button--flex">
+                        <a download="" href=".pdf/Andres_Barrientos_Developer.pdf" className="button button--flex">
                             {t('about.button')} <i className="uil uil-download-alt button__icon"></i>
                         </a>
                     </div>

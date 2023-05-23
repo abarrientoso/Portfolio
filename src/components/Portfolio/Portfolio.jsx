@@ -24,7 +24,7 @@ const Portfolio = () => {
                 <div class={`${styles.portfolio__container} swiper mySwiper"`}>
                     <SwiperSlide>
                         <div className={`${styles.portfolio__content} grid`}>
-                            <img src="./src/assets/img/criptos.png" alt="project_1" className={styles.portfolio__img} />
+                            <img src="./img/criptos.png" alt="project_1" className={styles.portfolio__img} />
 
                             <div className={styles.portfolio__data}>
                                 <h3 className={styles.portfolio__title}>{t("portfolio.portfolio1.title")}</h3>
@@ -42,7 +42,7 @@ const Portfolio = () => {
 
                     <SwiperSlide >
                         <div className={`${styles.portfolio__content} grid`}>
-                            <img src="./src/assets/img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
+                            <img src="./img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
 
                             <div className={styles.portfolio__data}>
                                 <h3 className={styles.portfolio__title}>{t("portfolio.portfolio2.title")}</h3>
@@ -56,7 +56,7 @@ const Portfolio = () => {
 
                     <SwiperSlide >
                         <div className={`${styles.portfolio__content} grid`}>
-                            <img src="./src/assets/img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
+                            <img src="./img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
 
                             <div className={styles.portfolio__data}>
                                 <h3 className={styles.portfolio__title}>{t("portfolio.portfolio3.title")}</h3>
