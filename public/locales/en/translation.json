@@ -91,13 +91,14 @@
       "button": "Demo"
     },
     "portfolio2": {
-      "title": "Modern Website",
-      "description": "Website adaptable to all devices, with ui components and animated interactions.",
+      "title": "Chat-Bot",
+      "description": "ChatGPT simulator using OpenAI ",
+      "description2":  "responsive, developed with React.js, Next.js, Axios and tailwindCSS",
       "button": "Demo"
     },
     "portfolio3": {
-      "title": "Modern Website",
-      "description": "Website adaptable to all devices, with ui components and animated interactions.",
+      "title": "Vet checkups App",
+      "description": "This website helps you setting up a check up if your puppy is having a bad time! responsive, developed with React.js y tailwindCSS",
       "button": "Demo"
     }
   },

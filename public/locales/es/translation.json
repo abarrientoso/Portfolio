@@ -91,13 +91,14 @@
       "button": "Demo"
     },
     "portfolio2": {
-      "title": "Sitio web moderno",
-      "description": "Sitio web adaptable a todos los dispositivos, con componentes y animaciones",
+      "title": "Chat-Bot",
+      "description": "Simulador de chatGPT utilizando la",
+      "description2":  "de OpenAI, adaptable a todos los dispositivos, con ReactJs, NextJs, Axios y tailwindCSS",
       "button": "Demo"
     },
     "portfolio3": {
-      "title": "Sitio web moderno",
-      "description": "Sitio web adaptable a todos los dispositivos, con componentes y animaciones",
+      "title": "Citas veterinaria",
+      "description": "Sitio web que te ayuda a agendar citas para tu mascota adaptable a todos los dispositivos, con ReactJS y tailwindCSS",
       "button": "Demo"
     }
   },
