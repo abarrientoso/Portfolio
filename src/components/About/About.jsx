@@ -39,7 +39,7 @@ const About = () => {
                     </div>
 
                     <div className={styles.about__buttons}>
-                        <a download="" href=".pdf/Andres_Barrientos_Developer.pdf" className="button button--flex">
+                        <a download="Andres_Barrientos_Developer.pdf" href="./pdf/Andres_Barrientos_Developer.pdf" className="button button--flex">
                             {t('about.button')} <i className="uil uil-download-alt button__icon"></i>
                         </a>
                     </div>

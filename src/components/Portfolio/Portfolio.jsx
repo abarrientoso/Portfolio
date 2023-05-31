@@ -33,7 +33,7 @@ const Portfolio = () => {
                                     <a href="https://min-api.cryptocompare.com/" className={styles.api__link}> CryptoCompare </a>
                                     {t("portfolio.portfolio1.description2")}
                                 </p>
-                                <a href="#" className={`button button--flex button--small ${styles.portfolio__button}`}>
+                                <a href="https://cryptcurrencyexchange.netlify.app/" target='_blank' className={`button button--flex button--small ${styles.portfolio__button}`}>
                                     {t("portfolio.portfolio1.button")} <i className={`uil uil-arrow-right ${styles.button__icon} button__icon`}></i>
                                 </a>
                             </div>
@@ -42,19 +42,19 @@ const Portfolio = () => {
 
                     <SwiperSlide >
                         <div className={`${styles.portfolio__content} grid`}>
-                            <img src="./img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
+                            <img src="./img/chat.png" alt="project_1" className={styles.portfolio__img} />
 
                             <div className={styles.portfolio__data}>
                                 <h3 className={styles.portfolio__title}>{t("portfolio.portfolio2.title")}</h3>
                                 <p className={styles.portfolio__description}>{t("portfolio.portfolio2.description")}</p>
-                                <a href="#" className={`button button--flex button--small ${styles.portfolio__button}`}>
+                                <a href="https://chatgpt-api.vercel.app/" target='_blank' className={`button button--flex button--small ${styles.portfolio__button}`}>
                                     {t("portfolio.portfolio2.button")} <i className={`uil uil-arrow-right ${styles.button__icon} button__icon`}></i>
                                 </a>
                             </div>
                         </div>
                     </SwiperSlide>
 
-                    <SwiperSlide >
+                    {/* <SwiperSlide >
                         <div className={`${styles.portfolio__content} grid`}>
                             <img src="./img/portfolio1.jpg" alt="project_1" className={styles.portfolio__img} />
 
@@ -66,7 +66,7 @@ const Portfolio = () => {
                                 </a>
                             </div>
                         </div>
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                 </div>
             </Swiper>
         </div>
